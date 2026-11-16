@@ -1,0 +1,6 @@
+server:
+  port: 8083
+
+providers:
+  json:
+    path: classpath:providers.json
